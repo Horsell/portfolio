@@ -60,6 +60,7 @@
     }, 300);
 
     // Initialize and Configure Magnific Popup Lightbox Plugin
+    /*
     $('.popup-gallery').magnificPopup({
         delegate: 'a',
         type: 'image',
@@ -74,5 +75,5 @@
             tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
         }
     });
-
+ */
 })(jQuery); // End of use strict
