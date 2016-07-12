@@ -74,3 +74,38 @@
 
     to { width: 70% }
 }
+
+#services
+{
+    margin-top: 110px;
+}
+
+.bloc
+{
+    margin-top: 124px;
+}
+
+.projet
+{
+    margin-top: 121px;
+    padding-top: 104px;
+    color: #EAFCFE;
+}
+
+.bg-dark
+{
+    padding-top: 121px;
+}
+
+
+#portfolio
+{
+    height: 750px;
+    width: 100%;
+    background-color: #29CDAA;
+}
+
+#contact
+{
+    padding-top: 121px;
+}
